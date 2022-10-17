@@ -2059,7 +2059,14 @@ input, select, textarea {
 	.box {
 		border-color: #eeeeee;
 	}
-
+/* Cemter */
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+  }
+  
 /* Button */
 
 	input[type="submit"],
